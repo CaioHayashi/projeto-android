@@ -216,8 +216,6 @@ footer a:hover {
 @media (max-width: 450px){
     nav > a {
         display: block;
-        text-align: center;
-        background-color: var(--cor3);
-        border-radius: 5px;
+        text-align: center;        
     }
 }
